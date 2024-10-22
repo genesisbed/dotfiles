@@ -85,8 +85,8 @@ riverctl map normal Super F11 enter-mode passthrough
 riverctl map passthrough Super F11 enter-mode normal
 
 riverctl background-color 0x002b36
-riverctl border-color-focused 0x93a1a1
-riverctl border-color-unfocused 0x586e75
+riverctl border-color-focused 0xffffff07
+riverctl border-color-unfocused 0xffffff06
 
 riverctl set-repeat 45 300
 
